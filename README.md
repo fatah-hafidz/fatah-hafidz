@@ -3,33 +3,33 @@
 </div>  
   
 
-### <div align="center">I'm Fatah Hafidz, a full-time DevOps Engineer  🚀</div>  
-  
+# 💫 About Me:
+🔭 I’m currently working as Devops Engineer<br>🌱 I’m currently learning Golang and Lua<br>💬 talk to me anything about tech<br>⚡ Fun fact I I use neovim in arch linux
 
-- 🔭 I’m currently working as Devops Engineer  
-  
+Hi, I'm **Fatah Hafidz**. I'm a DevOps Engineer. I'm passionate about writing automation tools and I interact daily with Kubernetes, AWS, Gitlab, Tekton, and ArgoCD.
 
-- 🌱 I’m currently learning new languages, Golang and Lua  
-  
-
-- ❓ Talk to me about anything related to Devops stack and related technologies  
-  
-
-- ⚡ Fun fact: I use neovim in my arch linux  
-  
-
-<br/>  
+My cozy workstation consists of a Zsh shell and Neovim. In my free time, I'm learning new programming languages. Currently, I'm learning Golang and Lua. My future learning goals include Artificial Intelligence and Machine Learning. I code mostly in Python and Bash, andI also enjoy customizing my Zsh and Neovim on the side.
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 🌐 Socials:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/zeroryuki) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### IDE Tracker
 
-### Programming  
-<div align="center">  
+[![wakatime](https://wakatime.com/badge/user/7c5f9c02-a594-4cad-affa-6ca65c51e7c2/project/8da50e61-7cb8-4015-a51f-b6af370357fc.svg)](https://wakatime.com/badge/user/7c5f9c02-a594-4cad-affa-6ca65c51e7c2/project/8da50e61-7cb8-4015-a51f-b6af370357fc)
+
+<dev align="center"><img src="https://wakatime.com/share/@7c5f9c02-a594-4cad-affa-6ca65c51e7c2/6ec8bb39-cb30-44ce-80f8-bd7fd26d2229.svg"></img></div>
+
+### Programming
+
+<div align="center">
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+<a href="https://www.lua.org"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png" target="_blank" alt="Lua" height="50" /></a>
+<a href="https://go.dev"><img style="margin: 10px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Fuchsia.svg" target="_blank" alt="Lua" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -63,29 +63,24 @@
 
 <br/>  
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fatah-hafidz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fatah-hafidz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatah-hafidz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/fatah-hafidz" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fatah-hafidz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<br/>  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=fatah-hafidz&icon=0&color=9)](https://visitcount.itsvg.in) 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fatah-hafidz&show_icons=true&count_private=true&hide_border=true" align="center" /></div><br />
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatah-hafidz&" alt="fatah-hafidz" /></div><br />
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatah-hafidz&show_icons=true&locale=en&layout=compact" alt="fatah-hafidz" /></div>
-
-<br/>  
-
+<!-- [![](https://komarev.com/ghpvc/?username=fatah-hafidz&&style=flat-square)] -->
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
@@ -94,33 +89,9 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=fatah-hafidz&&style=flat-square" align="center" />
-</div>  
-  
-
 <br/>  
 
 <div align="center"></div>
 <br />
 
 ----
-
-[![wakatime](https://wakatime.com/badge/user/7c5f9c02-a594-4cad-affa-6ca65c51e7c2/project/8da50e61-7cb8-4015-a51f-b6af370357fc.svg)](https://wakatime.com/badge/user/7c5f9c02-a594-4cad-affa-6ca65c51e7c2/project/8da50e61-7cb8-4015-a51f-b6af370357fc)
-
-![image](https://wakatime.com/share/@7c5f9c02-a594-4cad-affa-6ca65c51e7c2/0e086f07-720e-49de-ad7c-b78d6d75e269.png)
-
-<!--
-**fatah-hafidz/fatah-hafidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
