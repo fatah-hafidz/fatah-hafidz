@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/7c5f9c02-a594-4cad-affa-6ca65c51e7c2/project/8da50e61-7cb8-4015-a51f-b6af370357fc.svg)](https://wakatime.com/badge/user/7c5f9c02-a594-4cad-affa-6ca65c51e7c2/project/8da50e61-7cb8-4015-a51f-b6af370357fc)
+
+![image](https://wakatime.com/share/@7c5f9c02-a594-4cad-affa-6ca65c51e7c2/0e086f07-720e-49de-ad7c-b78d6d75e269.png)
+
 <!--
 **fatah-hafidz/fatah-hafidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
