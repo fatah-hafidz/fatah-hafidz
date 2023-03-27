@@ -19,7 +19,7 @@ My cozy workstation consists of a Zsh shell and Neovim. In my free time, I'm lea
 
 ### IDE Tracker
 
-[![wakatime](https://wakatime.com/badge/user/7c5f9c02-a594-4cad-affa-6ca65c51e7c2/project/8da50e61-7cb8-4015-a51f-b6af370357fc.svg)](https://wakatime.com/badge/user/7c5f9c02-a594-4cad-affa-6ca65c51e7c2/project/8da50e61-7cb8-4015-a51f-b6af370357fc)
+[![wakatime](https://wakatime.com/share/@7c5f9c02-a594-4cad-affa-6ca65c51e7c2/4d5b6693-318f-4eef-a32b-97051acb7aff.svg)](https://wakatime.com/badge/user/7c5f9c02-a594-4cad-affa-6ca65c51e7c2/project/8da50e61-7cb8-4015-a51f-b6af370357fc)
 
 <dev align="center"><img src="https://wakatime.com/share/@7c5f9c02-a594-4cad-affa-6ca65c51e7c2/6ec8bb39-cb30-44ce-80f8-bd7fd26d2229.svg"></img></div>
 
